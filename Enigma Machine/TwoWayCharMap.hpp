@@ -10,7 +10,6 @@
 #define TwoWayMap_hpp
 
 #include <string>
-#include <vector>
 
 class TwoWayCharMap
 {
