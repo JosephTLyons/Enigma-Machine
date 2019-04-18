@@ -8,8 +8,6 @@
 
 #include "TwoWayCharMap.hpp"
 
-#include <iostream>
-
 TwoWayCharMap::TwoWayCharMap (const std::string& map)
     : currentMap (map)
 {
